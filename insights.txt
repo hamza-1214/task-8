@@ -1,0 +1,16 @@
+Sales Dashboard - Key Insights
+
+1. Highest Performing Region: The top region generated the highest total sales, indicating stronger local demand and effective distribution in that area. Consider allocating more marketing and inventory focus to this region.
+
+2. Best-Selling Category: One product category dominated total sales, showing clear customer preference and product-market fit. Prioritize promotions and expand SKU availability within this category.
+
+3. Highest Sales Month: A specific Month–Year recorded peak sales, suggesting seasonality or a successful promotion in that period. Investigate promotions/campaigns during that month and replicate successful tactics.
+
+4. Recent Trend Observation: Over the most recent months, sales show an upward momentum, signaling growing demand. Continue monitoring and scale capacity to avoid stockouts.
+
+
+Recommendations:
+- Run targeted campaigns in the top-performing region to maximize ROI.
+- Bundle and cross-sell top category products to increase average order value.
+- Analyze promotions or events around the peak month and replicate high-impact tactics.
+- Monitor inventory and supplier lead times as demand grows; consider forecasting adjustments.
